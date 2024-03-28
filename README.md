@@ -1,4 +1,4 @@
-### Hi there 👋
+Welcome to Kanchan's GitHub Profile!
 
 <!--
 **kanchan0986/kanchan0986** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
