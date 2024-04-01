@@ -3,7 +3,7 @@
 
 ## About Me
 
-- Kanchan Sanyal  |  Frontend Developer  |  Website Designer  |  Graphics Designer  |  8+ years of experience.  |  India |
+- Kanchan Sanyal  |  Frontend Developer  |  Website Designer  |  Graphics Designer  |  8+ years of experience  |  India |
 - A detail-oriented person who likes to take and convert challenges into solutions.
 
 <!--
