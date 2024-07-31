@@ -7,6 +7,10 @@
 - A detail-oriented person who likes to take and convert challenges into solutions.
 
 <!--
+
+![](https://github-readme-stats.vercel.app/api?username=kanchan0986&show_icons=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kanchan0986&layout=compact)
+
 **kanchan0986/kanchan0986** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
