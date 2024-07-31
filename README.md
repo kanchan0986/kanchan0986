@@ -3,7 +3,7 @@
 
 ## About Me
 
-- Kanchan Sanyal  |  Frontend Developer  |  Website Designer  |  Graphics Designer  |  India 
+- Frontend Developer  |  India 
 - A detail-oriented person who likes to take and convert challenges into solutions.
 
 <!--
